@@ -17,7 +17,7 @@ Hi there, I'm **Jessica Tavares**, a **Software QA Engineer** from Brazil.
 - 💬 Ask me about anything, I love to answer!
   
 <a href="https://www.linkedin.com/in/tavares-j/">
-  <img align="left" alt="Zamran's LinkdeIn" width="24px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />
+  <img align="left" alt="Jessica's LinkdeIn" width="24px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />
 </a>
 <br>
 <br />
